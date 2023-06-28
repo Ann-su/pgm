@@ -1,0 +1,8 @@
+# ninja log v5
+2	51	7096937382075616	CMakeFiles/pgm.dir/main.c.obj	2fa4d8158bef3401
+8	62	7096937382195642	CMakeFiles/pgm.dir/pgm_format.c.obj	19fbee11c996f1e4
+5	64	7096937382205643	CMakeFiles/pgm.dir/punkty.c.obj	8b8305ea0cbc8bd9
+4	50	7096938002966501	CMakeFiles/pgm.dir/main.c.obj	2fa4d8158bef3401
+1	52	7096938002986508	CMakeFiles/pgm.dir/pgm_format.c.obj	19fbee11c996f1e4
+7	59	7096938003056527	CMakeFiles/pgm.dir/greymap.c.obj	98d2fffe7b00ef8a
+59	124	7096938003689161	pgm.exe	fc5c870ce8909127

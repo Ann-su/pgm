@@ -1,0 +1,3 @@
+C:/studia/IiAD_2/prog_procedural/pgm/cmake-build-debug/CMakeFiles/pgm.dir
+C:/studia/IiAD_2/prog_procedural/pgm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/studia/IiAD_2/prog_procedural/pgm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
